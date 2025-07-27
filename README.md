@@ -1,6 +1,6 @@
 # 🏠 Imobi3D
 
-**Imobi3D** é um aplicativo mobile multiplataforma que permite a criação de **plantas 3D interativas de imóveis residenciais**, com base em **medidas fornecidas manualmente ou capturadas via câmera com realidade aumentada (AR)**.
+**Imobi3D** é um aplicativo mobile multiplataforma que permite a criação de **plantas 3D interativas de imóveis**, com base em **medidas fornecidas manualmente ou capturadas via câmera com realidade aumentada (AR)**.
 
 Desenvolvido com **.NET MAUI**, **Unity 3D** e **ARFoundation**, o app tem como objetivo democratizar a visualização arquitetônica para corretores, arquitetos, decoradores e clientes, sem a necessidade de ferramentas complexas como AutoCAD ou SketchUp.
 
