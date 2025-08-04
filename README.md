@@ -1,3 +1,19 @@
+
+**Status do Projeto: ⏸️ Pausado Temporariamente**
+
+Este repositório contém o código-fonte do aplicativo mobile Imobi3D desenvolvido com .NET MAUI para criação de visualizações 3D interativas de imóveis.
+
+---
+
+**Nota Importante sobre o Desenvolvimento:**
+
+Devido a considerações de desempenho de hardware para o desenvolvimento mobile (especialmente com emuladores) e com o objetivo de explorar novas tecnologias web para o portfólio (como Blazor e Progressive Web Apps - PWAs), o desenvolvimento ativo desta versão mobile foi pausado temporariamente.
+
+O foco atual será na criação de uma versão web do Imobi3D utilizando Blazor (como PWA), que será hospedada em um [novo repositório aqui](LINK_DO_NOVO_REPOSITORIO_BLAZOR_AQUI_QUANDO_CRIAR).
+
+O projeto mobile em .NET MAUI poderá ser retomado e atualizado em uma etapa futura, conforme as necessidades e recursos disponíveis e o amadurecimento do desenvolvimento mobile no meu ambiente de trabalho.
+
+---
 # 🏠 Imobi3D
 
 **Imobi3D** é um aplicativo mobile multiplataforma que permite a criação de **plantas 3D interativas de imóveis**, com base em **medidas fornecidas manualmente ou capturadas via câmera com realidade aumentada (AR)**.
